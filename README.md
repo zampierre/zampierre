@@ -1,8 +1,4 @@
-## Olá! Sou Pedro Zampieri e estou estudando Sistema da Informação na PUC
 
-
-- 🔭: Infelizmente ainda não trabalho na minha area.
-- 🌱: Estudando Front-end, C e SQL.
 
 <div>
   <a href="https://github.com/zampierre">
