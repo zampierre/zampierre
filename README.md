@@ -1,4 +1,4 @@
-## Olá! Sou Pedro Zampieri e estou lecionando Sistema da Informação na PUC
+## Olá! Sou Pedro Zampieri e estou estudando Sistema da Informação na PUC
 
 
 - 🔭: Infelizmente ainda não trabalho na minha area.
